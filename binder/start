@@ -1,5 +1,5 @@
 #!/bin/bash
 
-alias jupyter="jupyter lab --notebook-dir ./notebooks"
+jupyter() { command "jupyter $@ --notebook-dir ./notebooks"; }
 
 exec "$@"
