@@ -1,0 +1,5 @@
+#!/bin/bash
+
+alias jupyter="jupyter lab --notebook-dir ./notebooks"
+
+exec "$@"
