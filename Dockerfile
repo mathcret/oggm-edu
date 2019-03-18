@@ -1,4 +1,4 @@
-FROM oggm/oggm:20181123
+FROM pangeo/pangeo-ocean:2019.03.12
 
 # install the notebook package
 RUN pip install --no-cache notebook
