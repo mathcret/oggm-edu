@@ -1,12 +1,15 @@
 # Note that there must be a tag
 FROM pangeo/pangeo-ocean:2019.03.12
 
-# https://mybinder.readthedocs.io/en/latest/tutorials/dockerfile.html#preparing-your-dockerfile
-ENV NB_USER jovyan
-ENV NB_UID 1000
+# create user with a home directory
+ARG NB_USER
+ARG NB_UID
+ENV USER ${NB_USER}
 ENV HOME /home/${NB_USER}
 
-COPY . ${HOME}
-USER root
-RUN chown -R ${NB_UID} ${HOME}
-USER ${NB_USER}
+RUN adduser --disabled-password \
+    --gecos "Default user" \
+    --uid ${NB_UID} \
+    ${NB_USER}
+WORKDIR ${HOME}
+USER ${USER}
