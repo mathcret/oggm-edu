@@ -1,8 +1,8 @@
 FROM oggm/oggm:20181123
 
 # install the notebook package
-RUN pip install --no-cache --upgrade pip && \
-    pip install --no-cache notebook
+RUN pip install --no-cache notebook
+RUN pip install jupyterhub==0.9.4
 
 # create user with a home directory
 ARG NB_USER
