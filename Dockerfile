@@ -1,8 +1,8 @@
-FROM pangeo/pangeo-ocean:2019.03.12
+FROM python:3.7-slim
 
 # install the notebook package
-RUN pip install --no-cache notebook
-RUN pip install jupyterhub==0.9.4
+RUN pip install --no-cache --upgrade pip && \
+    pip install --no-cache notebook
 
 # create user with a home directory
 ARG NB_USER
