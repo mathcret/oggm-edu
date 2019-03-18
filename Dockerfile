@@ -1,4 +1,5 @@
 FROM oggm/oggm:20181123
+
 # install the notebook package
 RUN pip install --no-cache --upgrade pip && \
     pip install --no-cache notebook
