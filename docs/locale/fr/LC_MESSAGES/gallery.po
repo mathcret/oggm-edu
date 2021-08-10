@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../gallery.rst:4
 msgid "Glacier Gallery"
-msgstr ""
+msgstr "Glacier Gallery"
 
 #: ../../gallery.rst:10
 msgid ""
@@ -28,6 +28,10 @@ msgid ""
 "introduces different glacier types with pictures and explanations. It "
 "includes typical glaciers from nearly all glaciated regions of the world."
 msgstr ""
+"La \"Glacier Gallery\" est une **application web interactive** avec laquelle vous "
+"pouvez en apprendre plus (mais également enseigner) sur la diversité des glaciers du monde. Elle "
+"présente différents types de glaciers avec des images et des explications. Elle "
+"comprend des glaciers typiques de presque toutes les régions glaciaires du monde."
 
 #: ../../gallery.rst:15
 msgid ""
@@ -43,7 +47,7 @@ msgstr ""
 
 #: ../../gallery.rst:24
 msgid "How to use it"
-msgstr ""
+msgstr "Comment l'utiliser ?"
 
 #: ../../gallery.rst:26
 msgid ""
@@ -56,42 +60,54 @@ msgid ""
 "glacier click into the map to delete your selection and choose a new "
 "marker."
 msgstr ""
+"L'application contient une **carte** interactive avec quelques glaciers repérés. Les repères "
+"sont colorés en fonction du type de glacier. Lorsque la souris passe "
+"au-dessus de l'un d'eux, des informations sur ce glacier et une photo de celui-ci apparaissent. "
+"Si vous cliquez sur le repère, des informations sur le type de glacier apparaissent dans "
+"le **cadre de texte** à droite de l'écran. Ce cadre possède une deuxième fenêtre qui contient "
+"des informations sur les glaciers en général. Si vous voulez choisir un autre "
+"glacier, cliquez sur la carte pour supprimer votre sélection avant de choisir un nouveau "
+"repère."
 
 #: ../../gallery.rst:35
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #: ../../gallery.rst:37
 msgid "`Zora Schirmeister <https://github.com/zschirmeister>`_"
-msgstr ""
+msgstr "`Zora Schirmeister <https://github.com/zschirmeister>`_"
 
 #: ../../gallery.rst:41
 msgid "Data sources"
-msgstr ""
+msgstr "Sources des données"
 
 #: ../../gallery.rst:43
 msgid ""
 "Glacier location and sizes are obtained from the `Randolph Glacier "
 "Inventory version 6 <https://www.glims.org/RGI/>`_."
 msgstr ""
+"L'emplacement et la taille des glaciers sont issus du `Randolph Glacier'"
+"Inventory version 6 <https://www.glims.org/RGI/>`_."
 
 #: ../../gallery.rst:45
 msgid "See the app for links to other data sources and pictures."
-msgstr ""
+msgstr "Rendez vous sur l'application pour plus d'images et de liens vers d'autres sources de données."
 
 #: ../../gallery.rst:49
 msgid "Source code"
-msgstr ""
+msgstr "Code source"
 
 #: ../../gallery.rst:51
 msgid ""
 "Code and data are on `GitHub <https://github.com/OGGM/glacier-gallery>`_,"
 " BSD licensed."
 msgstr ""
+"Le code et les données sont accessibles sur `GitHub <https://github.com/OGGM/glacier-gallery>`_,"
+" sous licence BSD."
 
 #: ../../gallery.rst:55
 msgid "Possible future improvements"
-msgstr ""
+msgstr "Améliorations à venir"
 
 #: ../../gallery.rst:57
 msgid ""
@@ -101,4 +117,8 @@ msgid ""
 "/glacier-gallery/blob/master/glacier_data.py>`_. You can send us the "
 "edited file per mail or with a pull-request. Thanks!"
 msgstr ""
-
+"L'application tirerait profit de glaciers supplémentaires dans les régions qui ne sont "
+" pas encore couverts. Si vous souhaitez contribuer, vous pouvez ajouter un "
+"glacier et une image de celui-ci dans cette `liste <https://github.com/OGGM"
+"/glacier-gallery/blob/master/glacier_data.py>`_. Vous pouvez nous envoyer le "
+"fichier édité par mail ou avec une pull-request. Merci !"
