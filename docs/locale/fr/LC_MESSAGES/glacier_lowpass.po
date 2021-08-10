@@ -19,35 +19,43 @@ msgstr ""
 
 #: ../../glacier_lowpass.rst:4
 msgid "Glacier as low-pass filters"
-msgstr ""
+msgstr "Les glaciers comme filtres passe-bas"
 
 #: ../../glacier_lowpass.rst:8
 msgid ""
 "A collection of free glacier graphics that can be used for education and "
 "outreach."
 msgstr ""
+"Une collection de graphiques sur les glaciers qui peuvent être utilisés"
+"librement à des fins d'éducation et de sensibilisation."
 
 #: ../../glacier_lowpass.rst:12
 msgid ""
 "**License**: `Creative Commons Attribution-ShareAlike 4.0 International "
 "License <https://creativecommons.org/licenses/by-sa/4.0/>`_"
 msgstr ""
+"**Licence**: `Creative Commons Attribution-ShareAlike 4.0 International "
+"License <https://creativecommons.org/licenses/by-sa/4.0/>`_"
 
 #: ../../glacier_lowpass.rst:18
 msgid ""
 "Feel free to use / adapt the graphics, but always refer to the original "
 "author and share them with a compatible license."
 msgstr ""
+"N'hésitez pas à utiliser / adapter les graphiques, mais faites toujours référence à l'auteur "
+"original et partagez-les avec une licence appropriée."
 
 #: ../../glacier_lowpass.rst:21
 msgid "**Author**: Fabien Maussion with the `OGGM <http://oggm.org>`_ model."
-msgstr ""
+msgstr "**Auteur**: Fabien Maussion avec le modèle `OGGM <http://oggm.org>`_ ."
 
 #: ../../glacier_lowpass.rst:23
 msgid ""
 "**Code**: `on GitHub <https://github.com/OGGM/oggm-edu-"
 "notebooks/blob/master/graphics/ela_changes_response_time.ipynb>`_"
 msgstr ""
+"**Code**: `sur GitHub <https://github.com/OGGM/oggm-edu-"
+"notebooks/blob/master/graphics/ela_changes_response_time.ipynb>`_"
 
 #: ../../glacier_lowpass.rst:25
 #, python-format
@@ -58,12 +66,19 @@ msgid ""
 "notebooks%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/oggm-edu-"
 "notebooks/graphics/ela_changes_response_time.ipynb%3Fautodecode>`_"
 msgstr ""
+"**Notebook interactif **: `MyBinder link "
+"<https://mybinder.org/v2/gh/OGGM/binder/stable?urlpath=git-"
+"pull?repo=https://github.com/OGGM/oggm-edu-"
+"notebooks%26amp%3Bbranch=master%26amp%3Burlpath=lab/tree/oggm-edu-"
+"notebooks/graphics/ela_changes_response_time.ipynb%3Fautodecode>`_"
 
 #: ../../glacier_lowpass.rst:27
 msgid ""
 "**Image download**: `zip file <https://github.com/OGGM/glacier-"
 "graphics/blob/master/glacier_response/glacier_response.zip>`_"
 msgstr ""
+"**Télécharger l'image**: `zip file <https://github.com/OGGM/glacier-"
+"graphics/blob/master/glacier_response/glacier_response.zip>`_"
 
 #: ../../glacier_lowpass.rst:29
 msgid ""
@@ -71,8 +86,11 @@ msgid ""
 "explain the concepts of **response time** (or time constant) and **low-"
 "pass filter**."
 msgstr ""
+"La série de graphiques qui suit peut être utilisée juste après les graphiques ci-dessus pour "
+"expliquer les concepts de **temps de réponse** (ou constante de temps) et "
+"de **filtre passe-bas**."
 
 #: ../../glacier_lowpass.rst:32
 msgid "There are several stages to click through (useful for presentations):"
-msgstr ""
+msgstr "Il se décompose en plusieurs étapes (utile pour les présentations)"
 
