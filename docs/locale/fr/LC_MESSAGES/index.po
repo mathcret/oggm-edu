@@ -19,35 +19,35 @@ msgstr ""
 
 #: ../../index.rst:38 ../../index.rst:47
 msgid "Interactive apps"
-msgstr ""
+msgstr "Applications interactives"
 
 #: ../../index.rst:60 ../../index.rst:67
 msgid "Graphics"
-msgstr ""
+msgstr "Graphiques"
 
 #: ../../index.rst:88
 msgid "OGGM-Edu notebooks"
-msgstr ""
+msgstr "Notebooks OGGM-Edu"
 
 #: ../../index.rst:79 ../../index.rst:88
 msgid "Interactive Notebooks"
-msgstr ""
+msgstr "Notebooks interactifs"
 
 #: ../../index.rst:100 ../../index.rst:106
 msgid "OGGM tutorials"
-msgstr ""
+msgstr "Tutoriels OGGM"
 
 #: ../../index.rst:115 ../../index.rst:126
 msgid "For instructors and teachers"
-msgstr ""
+msgstr "Vous êtes formateur ou enseignant ?"
 
 #: ../../index.rst:5
 msgid "Welcome to OGGM-Edu!"
-msgstr ""
+msgstr "Bienvenue sur OGGM-Edu !"
 
 #: ../../index.rst:7
 msgid "OGGM-Edu is an educational website about glaciers."
-msgstr ""
+msgstr "OGGM-Edu est un site web éducatif sur les glaciers."
 
 #: ../../index.rst:9
 msgid ""
@@ -55,6 +55,9 @@ msgid ""
 "want to teach about glaciers at school, in workshops or at the "
 "university."
 msgstr ""
+"Notre objectif principal est de **fournir des outils et du contenu aux formateurs** qui "
+"souhaitent enseigner les glaciers à l'école, dans des ateliers ou à l'"
+"université."
 
 #: ../../index.rst:12
 msgid ""
@@ -63,10 +66,15 @@ msgid ""
 "about-oggm-edu-an-open-source-educational-platform-about-glaciers-and-"
 "glacier-modelling/>`_!"
 msgstr ""
+"Pour une introduction générale et une vue d'ensemble, vous pouvez consulter"
+"ce billet récent : `EGU "
+"cryoblog <https://blogs.egu.eu/divisions/cr/2021/03/12/do-you-know-"
+"about-oggm-edu-an-open-source-educational-platform-about-glaciers-and-"
+"glacier-modelling/>`_!"
 
 #: ../../index.rst:15
 msgid "**OGGM-Edu has four independent and complementary components**:"
-msgstr ""
+msgstr "**OGGM-Edu est fait de quatre composantes indépendantes et complémentaires** :"
 
 #: ../../index.rst:17
 msgid ""
@@ -74,12 +82,17 @@ msgid ""
 " interactive graphics on the web. The targeted audience is very broad, "
 "from school children to adults, with or without scientific background."
 msgstr ""
+":ref:`title_apps`, pour illustrer les processus glaciologiques grâce à des"
+"graphiques interactifs en ligne. Le public ciblé est très large, "
+"allant des écoliers aux adultes, avec ou sans formation scientifique."
 
 #: ../../index.rst:20
 msgid ""
 ":ref:`title_graphics`, open access images and graphics that can be used "
 "for lectures or presentations."
 msgstr ""
+":ref:`title_graphics`, des images et des graphiques en libre accès qui peuvent être utilisés "
+"pour des cours ou des présentations."
 
 #: ../../index.rst:22
 msgid ""
@@ -88,6 +101,10 @@ msgid ""
 "graduate level with some programming experience, or under the supervision"
 " of an instructor who can show them how to run the experiments."
 msgstr ""
+":ref:`title_notebooks`, pour les étudiants désireux de mener et développer leurs propres"
+" : expériences. Le public visé est constitué d'étudiants de premier cycle universitaire ou "
+"diplômés ayant une certaine expérience de la programmation, ou d'étudiants supervisés"
+" par un instructeur capable de leur montrer comment mener à bien les expériences."
 
 #: ../../index.rst:26
 msgid ""
@@ -95,6 +112,9 @@ msgid ""
 "Glacier Model. These notebooks are targetting graduate students or "
 "scientists aiming to learn how the model works."
 msgstr ""
+":ref:`title_tuto`, pour les utilisateurs actuels et futurs de l'\"Open Global "
+"Glacier Model\". Ces notebooks sont destinés aux étudiants diplômés ou aux "
+"scientifiques voulant apprendre comment le modèle fonctionne".
 
 #: ../../index.rst:30
 msgid ""
@@ -103,12 +123,18 @@ msgid ""
 "glaciology or climate science: for fundamental textbook material, refer "
 "to :ref:`other_resources`, which OGGM-Edu intends to complement."
 msgstr ""
+"OGGM-Edu se concentre sur le contenu interactif et les expériences numériques sur les glaciers"
+". Nous ne fournissons pas de ressources pédagogiques sur les principes fondamentaux de la "
+"glaciologie ou des sciences du climat : pour les manuels fondamentaux, référez-vous "
+"à :ref:``other_resources`, que OGGM-Edu entend compléter."
 
 #: ../../index.rst:40
 msgid ""
 "These interactive apps can be run on any computer with an internet "
 "connection."
 msgstr ""
+"Ces applications interactives peuvent être exécutées sur n'importe quel ordinateur disposant "
+"d'un accès à Internet."
 
 #: ../../index.rst:42
 msgid ":doc:`gallery`"
@@ -131,6 +157,8 @@ msgid ""
 "Open access images and graphics that can be used for lectures or "
 "presentations."
 msgstr ""
+"Des images et des graphiques en libre accès qui peuvent être utilisés "
+"pour des cours ou des présentations.
 
 #: ../../index.rst:64
 msgid ":doc:`glacier_basics`"
@@ -148,6 +176,11 @@ msgid ""
 "accessible as possible. Read our :ref:`notebooks_howto` first if you are "
 "new to these things."
 msgstr ""
+"Collection de notebooks contenant des expériences simples expliquant un ou plusieurs "
+"concepts glaciologiques. Ils sont relativement faciles à suivre et à adapter avec "
+"quelques connaissances en programmation, et nous nous efforçons de les rendre aussi "
+"accessibles que possible. Lisez d'abord notre :ref:`notebooks_howto` si vous n'êtes "
+"pas familier avec ce sujet."
 
 #: ../../index.rst:86
 msgid "|badge_edu_notebooks|"
@@ -155,7 +188,7 @@ msgstr ""
 
 #: ../../index.rst:102
 msgid "These are more advanced notebooks, for users of the OGGM model."
-msgstr ""
+msgstr ""Vous trouverez ici des notebooks plus avancés, à destination des utilisateurs du modèle OGGM.""
 
 #: ../../index.rst:104
 msgid "|badge_tutorial_notebooks|"
@@ -166,6 +199,8 @@ msgid ""
 "Thanks for considering OGGM-Edu for your classes! We've gathered some "
 "recommendations and guidelines here."
 msgstr ""
+"Merci d'avoir songé à OGGM-Edu pour vos cours ! Nous avons rassemblé quelques "
+"recommandations et consignes ici."
 
 #: ../../index.rst:120
 msgid ":doc:`why_oggmedu`"
@@ -189,35 +224,35 @@ msgstr ""
 
 #: ../../index.rst:140
 msgid "Get in touch"
-msgstr ""
+msgstr "Contactez nous"
 
 #: ../../index.rst:142
 msgid "Interested in OGGM-Edu? We would love to hear from you!"
-msgstr ""
+msgstr "Intéressés par OGGM-Edu ? Nous attendons de vos nouvelles !"
 
 #: ../../index.rst:144
 msgid "All of this website and notebooks are located `on GitHub`_."
-msgstr ""
+msgstr "L'ensemble du site comme les notebooks se trouvent `on GitHub`_."
 
 #: ../../index.rst:145
 msgid "Report bugs or share your ideas on the `issue tracker`_."
-msgstr ""
+msgstr "Signalez les bugs ou partagez vos idées sur le `issue tracker`_."
 
 #: ../../index.rst:146
 msgid "Improve the website by submitting a `pull request`_."
-msgstr ""
+msgstr "Améliorez le site web en déposant une `pull request`_."
 
 #: ../../index.rst:147
 msgid "Follow us on `Twitter`_."
-msgstr ""
+msgstr "Suivez nous sur `Twitter`_."
 
 #: ../../index.rst:148
 msgid "Or you can always send us an `e-mail`_ the good old way."
-msgstr ""
+msgstr "Ou vous pouvez toujours nous envoyer un `e-mail`_ comme au bon vieux temps. "
 
 #: ../../index.rst:157
 msgid "Acknowledgements"
-msgstr ""
+msgstr "Remerciements"
 
 #: ../../index.rst:159
 msgid ""
@@ -225,22 +260,29 @@ msgid ""
 "(`oggm.org <https://oggm.org>`_). It is mainly the work of volunteers, "
 "but we also had support from various sources:"
 msgstr ""
+" OGGM-Edu est un projet affilié au consortium OGGM ".
+" (`oggm.org <https://oggm.org>`_). C'est principalement le travail de volontaires, "
+"mais nous avons également bénéficié du soutien d'organisations variées :"
 
 #: ../../index.rst:163
 msgid ""
 "the University of Innsbruck, Förderkreis **1669** – **Wissen** schafft "
 "Gesell **schaft** (2019-2020)."
 msgstr ""
+"l' Université d'Innsbruck, Förderkreis **1669** – **Wissen** schafft "
+"Gesell **schaft** (2019-2020)."
 
 #: ../../index.rst:165
 msgid "the German BMBF (project FKZ 01LS1602A, 2017-2019)."
-msgstr ""
+msgstr "le German BMBF (project FKZ 01LS1602A, 2017-2019)."
 
 #: ../../index.rst:166
 msgid ""
 "`Google Cloud | Data Solutions for Change`_ who provided cloud computing "
 "and hosting credits (2019-2020)."
 msgstr ""
+"`Google Cloud | Data Solutions for Change`_ qui a fourni le \"cloud computing\" "
+"et des crédits d'hébergement (2019-2020)."
 
 #: ../../index.rst:168
 msgid ""
@@ -248,16 +290,21 @@ msgid ""
 "<https://www.uibk.ac.at/zid/abteilungen/lt/>`_ (Neue Medien Projekte, "
 "2018)."
 msgstr ""
+"l' Université d'Innsbruck, et le département des `Digital Sciences "
+"<https://www.uibk.ac.at/zid/abteilungen/lt/>`_ (Neue Medien Projekte, "
+"2018)."
 
 #: ../../index.rst:171
 msgid ""
 "the OGGM e.V. organisation, who supported the creation of the OGGM-Edu "
 "logo and of the glacier graphics."
 msgstr ""
+"l'organisation OGGM e.V., qui a contribué au graphisme du glacier"
+" et à la création du logo OGGM-Edu. "
 
 #: ../../index.rst:198
 msgid "We rely on awesome open source tools to run OGGM-Edu! Most notably:"
-msgstr ""
+msgstr "Nous pouvons compter sur des outils open source géniaux pour faire fonctionner OGGM-Edu ! Notamment :"
 
 #: ../../index.rst:200
 msgid "`Jupyter <https://jupyter.org>`_"
@@ -277,7 +324,7 @@ msgstr ""
 
 #: ../../index.rst:204
 msgid "and many (many) other packages of the scientific python ecosytem"
-msgstr ""
+msgstr "et de (très) nombreux packages issus de l'écosystème scientifique python"
 
 #: ../../index.rst:206
 msgid ""
@@ -285,6 +332,9 @@ msgid ""
 "a full list, see our `github repository <https://github.com/OGGM/oggm-"
 "edu/graphs/contributors>`_."
 msgstr ""
+"Last but not least : merci à tous les amis et contributeurs d'OGGM-Edu ! Pour "
+"avoir la liste complète, allez voir notre répertoire `github <https://github.com/OGGM/oggm-"
+"edu/graphs/contributors>`_."
 
 #~ msgid ":doc:`notebooks_howto`"
 #~ msgstr ""
