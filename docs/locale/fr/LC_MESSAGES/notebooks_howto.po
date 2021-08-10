@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../notebooks_howto.rst:4
 msgid "Introduction to interactive notebooks"
-msgstr ""
+msgstr "Introduction aux notebooks interactifs"
 
 #: ../../notebooks_howto.rst:6
 msgid ""
@@ -27,10 +27,13 @@ msgid ""
 "or in a class), we strongly recommend to read this short information "
 "page."
 msgstr ""
+"Si vous prévoyez d'utiliser les notebooks pédagogiques de l'OGGM-Edu (que ce soit de façon autonome "
+"ou dans une classe), nous vous recommandons vivement de lire cette courte page d'information."
+
 
 #: ../../notebooks_howto.rst:10
 msgid "Jupyter notebooks"
-msgstr ""
+msgstr "Notebooks Jupyter"
 
 #: ../../notebooks_howto.rst:12
 msgid ""
@@ -40,6 +43,11 @@ msgid ""
 " text**. In OGGM-Edu, we use notebooks to design and share glacier "
 "modelling experiments."
 msgstr ""
+"Le ` Notebook Jupyter <https://jupyter.org>`_ est une **application web open-source**"
+" qui vous permet de créer et de partager des documents contenant "
+"**du code informatique dynamique**, **des équations**, **des représentations visuelles** et **du texte narratif**"
+". Dans OGGM-Edu, nous utilisons des notebooks pour concevoir et partager des expériences de modélisation"
+"des glaciers."
 
 #: ../../notebooks_howto.rst:17
 msgid ""
@@ -48,6 +56,10 @@ msgid ""
 "We also have prepared a tutorial for you on OGGM-Edu. Open it in your "
 "browser with:"
 msgstr ""
+"Si vous découvrez les Notebooks Jupyter, n'ayez pas peur ! Vous pouvez vous renseigner"
+" et les tester sur le site `Jupyter <https://jupyter.org>`_ . "
+"Nous avons également préparé un tutoriel pour vous sur OGGM-Edu. Ouvrez-le dans votre "
+"navigateur avec :"
 
 #: ../../notebooks_howto.rst:21
 msgid "|badge_edu_intro_notebooks|"
@@ -63,6 +75,13 @@ msgid ""
 "However, you will have to `install OGGM <https://docs.oggm.org/en/stable"
 "/installing-oggm.html>`_ locally for them to work!"
 msgstr ""
+"Ce lien vous conduira à un environnement interactif :ref:`binder_simple` "
+". Si vous préférez exécuter les notebooks sur votre ordinateur personnel "
+", vous pouvez toujours les télécharger depuis notre `répertoire "
+"<https://github.com/OGGM/oggm-edu-notebooks>`_ ou sous forme de `fichier zip "
+"<https://github.com/OGGM/oggm-edu-notebooks/archive/master.zip>`_. "
+"Cependant, vous devrez `installer OGGM <https://docs.oggm.org/en/stable"
+"/installing-oggm.html>`_ en local pour qu'ils fonctionnent !"
 
 #: ../../notebooks_howto.rst:33
 msgid "MyBinder"
@@ -76,6 +95,11 @@ msgid ""
 "time a user clicks on an OGGM-Edu binder link, a so-called \"virtual "
 "machine\" is spun-up and made accessible via the web-browser."
 msgstr ""
+"`MyBinder <https://mybinder.org>`_ est un service qui nous permet de mettre à disposition"
+" des environnements informatiques en ligne dans lesquels les carnets OGGM-Edu peuvent être lus "
+"et exécutés. Il s'agit d'un service fantastique qui fonctionne grâce au cloud - chaque "
+"fois qu'un utilisateur clique sur le lien d'un notebook OGGM-Edu, une "machine virtuelle" est créée "
+" et rendue accessible sur son navigateur."
 
 #: ../../notebooks_howto.rst:43
 msgid ""
@@ -91,6 +115,17 @@ msgid ""
 "i.e. leaving the tab open but navigating elsewhere will eventually shut "
 "down your session)."
 msgstr ""
+"**Ces environnements Binder sont sûrs, anonymes et temporaires**. "
+"Temporaire signifie qu'ils ne sont pas permanents : si vous fermez l'onglet dans lequel "
+"l'environnement a été ouvert, il est perdu. Si vous ouvrez à nouveau le lien, un nouvel "
+"environnement sera créé pour vous, sans vos modifications précédentes."
+" Par conséquent, si vous souhaitez sauvegarder votre travail pour plus tard (c'est-à-dire pour pouvoir "
+"le télécharger lors d'une prochaine session Binder), n'oubliez pas de télécharger les fichiers "
+"que vous avez modifiés avant de partir (voir les instructions ci-dessous). **Sachez qu'un environnement "
+"Binder se ferme après 10 minutes d'inactivité** "
+"(le fait de laisser l'onglet ouvert ne sera considéré comme une "activité" que si il est visible : "
+"laisser l'onglet ouvert mais naviguer ailleurs finira par fermer "
+"votre session)."
 
 #: ../../notebooks_howto.rst:54
 msgid ""
@@ -103,10 +138,18 @@ msgid ""
 " dedicated servers for instructors: see :ref:`technical_details` for more"
 " information."
 msgstr ""
+"MyBinder est un service gratuit que nous fournissent généreusement les communautés Binder "
+"et Jupyter (`FAQ "
+"<https://mybinder.readthedocs.io/en/latest/faq.html>`_). En conséquence, vous pouvez "
+"vous attendre à un certain temps d'attente au lancement et à des ressources informatiques "
+"relativement limitées. Ces ressources devraient tout de même être plus que suffisantes pour exécuter"
+" OGGM-Edu à la maison ou lors d'un atelier. Si nécessaire, nous fournissons également des "
+"serveurs dédiés pour les formateurs : voir :ref:`technical_details` pour plus"
+" d'informations."
 
 #: ../../notebooks_howto.rst:63
 msgid "Starting a MyBinder environment"
-msgstr ""
+msgstr "Lancer un environnement MyBinder"
 
 #: ../../notebooks_howto.rst:65
 msgid "|badge_edu_notebooks|"
@@ -118,10 +161,13 @@ msgid ""
 "page similar to the one below (here with the *show log* button "
 "activated):"
 msgstr ""
+"Après avoir cliqué sur un lien OGGM-Edu MyBinder, vous devriez voir une page "
+"de chargement similaire à celle ci-dessous (ici avec le bouton *Afficher le journal (show log)* "
+"activé) :"
 
 #: ../../notebooks_howto.rst:73
 msgid "A typical binder load page"
-msgstr ""
+msgstr "Page de chargement Binder classique"
 
 #: ../../notebooks_howto.rst:75
 msgid ""
@@ -131,16 +177,23 @@ msgid ""
 "minutes**, depending on the current workload of the service and whether "
 "or not the image was already loaded on the virtual machine."
 msgstr ""
+"Cette page indique qu'un environnement OGGM-Edu fonctionnel (appelé "
+"\"image\") a été trouvé dans la base de données Binder et est en cours de lancement pour vous."
+" **Le chargement de \"l'image\" peut prendre de quelques secondes à quelques "
+"minutes**, selon la charge de travail actuelle du service et selon que "
+"l'image était déjà chargée ou non sur la machine virtuelle."
 
 #: ../../notebooks_howto.rst:81
 msgid ""
 "In rare cases, you might encouter a start log with more verbose output, "
 "such as this one:"
 msgstr ""
+"Dans de rares cas, vous pouvez rencontrer un journal de démarrage plus loquace, "
+"comme celui-ci :"
 
 #: ../../notebooks_howto.rst:87
 msgid "A binder image build log"
-msgstr ""
+msgstr "Exemple de journal pendant le construction de l'*image* Binder"
 
 #: ../../notebooks_howto.rst:89
 msgid ""
@@ -149,6 +202,10 @@ msgid ""
 "**In these rare cases, the builds can take up to 15 minutes**. Be "
 "patient!"
 msgstr ""
+"Cela se produit lorsque l'image doit être créée à nouveau (reportez-vous à "
+":ref:`technical_details` pour plus d'informations sur la raison pour laquelle cela se produit). "
+"**Dans ces rares cas, la création peut prendre jusqu'à 15 minutes**. Soyez "
+"patients !"
 
 #: ../../notebooks_howto.rst:95
 msgid ""
@@ -156,6 +213,10 @@ msgid ""
 "connect to event stream\". When this happens, simply refresh your browser"
 " (or click on the OGGM-Edu link again)"
 msgstr ""
+"Parfois, le journal peut afficher une erreur du type : \" Échec de la "
+"connexion au flux de donnée (Failed to connect to event stream)\". Lorsque cela"
+"se produit, rafraîchissez simplement votre navigateur "
+"(ou cliquez à nouveau sur le lien OGGM-Edu)"
 
 #: ../../notebooks_howto.rst:101
 msgid "JupyterLab"
@@ -166,10 +227,12 @@ msgid ""
 "Once the Binder environment is ready, you should see a page similar to "
 "this:"
 msgstr ""
+"Une fois que l'environnement Binder est prêt, vous devriez voir une page similaire à "
+"celle-ci : "
 
 #: ../../notebooks_howto.rst:108
 msgid "The JupyterLab environment with the three main areas highlighted."
-msgstr ""
+msgstr "L'environnement JupyterLab avec ses trois zones principales mises en évidence."
 
 #: ../../notebooks_howto.rst:111
 msgid ""
@@ -179,16 +242,22 @@ msgid ""
 "<https://jupyterlab.readthedocs.io/en/stable/user/interface.html>`_ as "
 "well."
 msgstr ""
+"Il s'agit de l'environnement de développement JupyterLab. Il est assez intuitif et "
+" la plupart des gens s'y retrouvent sans trop de difficultés, mais vous "
+"pourriez aussi bien vouloir jeter un coup d'oeil à l'excellente `documentation "
+"<https://jupyterlab.readthedocs.io/en/stable/user/interface.html>`_ "
 
 #: ../../notebooks_howto.rst:117
 msgid "The three main areas highlighted above are:"
-msgstr ""
+msgstr "Les trois principales zones mises en évidence sont :"
 
 #: ../../notebooks_howto.rst:119
 msgid ""
 "**Menu Bar** (blue): top-level menus that expose actions available in "
 "JupyterLab"
 msgstr ""
+"**Barre de Menu** (bleu) : menus primaires qui affichent les actions disponibles dans "
+"JupyterLab"
 
 #: ../../notebooks_howto.rst:120
 msgid ""
@@ -197,6 +266,10 @@ msgid ""
 "notebooks) and terminals, the command palette, and a list of tabs in the "
 "main work area"
 msgstr ""
+"**Barre latérale gauche** (rouge) : contient un certain nombre d'onglets couramment utilisés, tels que "
+"un explorateur de fichiers (le plus important), une liste des noyaux en cours d'exécution (i.e. "
+"notebooks) et des terminaux, la console de commande, et une liste d'onglets dans la "
+"zone de travail principale"
 
 #: ../../notebooks_howto.rst:123
 msgid ""
@@ -206,10 +279,15 @@ msgid ""
 "center of a tab panel to move the tab to the panel. Subdivide a tab panel"
 " by dragging a tab to the left, right, top, or bottom of the panel"
 msgstr ""
+"**Zone de travail principale** (vert) : la zone de travail principale de JupyterLab vous permet "
+"d'organiser des documents (carnets de notes, fichiers texte, etc.) et d'autres activités "
+"en panneaux d'onglets qui peuvent être redimensionnés ou subdivisés. Faites glisser un onglet vers le "
+"centre d'un panneau d'onglets pour déplacer l'onglet vers le panneau. Subdivisez un panneau d'onglets "
+"en faisant glisser un onglet vers la gauche, la droite, le haut ou le bas du panneau"
 
 #: ../../notebooks_howto.rst:131
 msgid "Download and upload files to MyBinder/JupyterLab"
-msgstr ""
+msgstr "Téléchargement et chargement de fichiers dans MyBinder/JupyterLab"
 
 #: ../../notebooks_howto.rst:133
 msgid ""
@@ -217,6 +295,9 @@ msgid ""
 " download the notebooks you modified during your session, and/or upload "
 "notebooks or data that you store on your computer."
 msgstr ""
+"Puisque votre environnement MyBinder est temporaire, vous pourriez avoir besoin de "
+"télécharger les notebooks que vous avez modifiés pendant votre session, et/ou d'uploader "
+"des notebooks ou des données que vous stockez sur votre ordinateur."
 
 #: ../../notebooks_howto.rst:137
 msgid ""
@@ -226,14 +307,21 @@ msgid ""
 "→ `Export Notebook As` (we recommend ``html``). Be aware that some "
 "formats might not export properly."
 msgstr ""
+"Pour **télécharger un notebook, utilisez l'explorateur de fichiers dans la barre latérale gauche** :"
+" faites un clique droit sur le fichier que vous souhaitez télécharger et sélectionnez "Télécharger". Vous pouvez "
+"également télécharger le notebook sous différents formats standards dans le menu : `Fichier` "
+"→ `Exporter le carnet sous` (nous recommandons ``html``). Sachez que certains "
+"formats peuvent ne pas s'exporter correctement."
 
 #: ../../notebooks_howto.rst:144
 msgid ""
 "To **upload a file or notebook, use the up-arrow button on the top of the"
 " sidebar**: you can upload any file - text or data."
 msgstr ""
+"Pour **télécharger un fichier ou un notebook, utilisez le bouton *flèche vers le haut* en haut de la "
+"barre latérale** : vous pouvez télécharger n'importe quel fichier - texte ou donnée."
 
 #: ../../notebooks_howto.rst:150
 msgid "The JupyterLab's upload button (red box)"
-msgstr ""
+msgstr "Le bouton *upload* de JupyterLab (cadre rouge)"
 
