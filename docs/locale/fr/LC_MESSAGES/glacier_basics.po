@@ -19,31 +19,39 @@ msgstr ""
 
 #: ../../glacier_basics.rst:4
 msgid "Introduction to glaciers"
-msgstr ""
+msgstr ""Introduction aux glaciers""
 
 #: ../../glacier_basics.rst:10
 msgid ""
 "A collection of free glacier graphics that can be used for education and "
 "outreach."
 msgstr ""
+"Une collection de graphiques sur les glaciers qui peuvent être utilisés librement à des fins"
+"d'éducation et de sensibilisation".
 
 #: ../../glacier_basics.rst:14
 msgid ""
 "**License**: `Creative Commons Attribution-ShareAlike 4.0 International "
 "License <https://creativecommons.org/licenses/by-sa/4.0/>`_"
 msgstr ""
+"**Licence**: `Creative Commons Attribution-ShareAlike 4.0 International "
+"License <https://creativecommons.org/licenses/by-sa/4.0/>`_"
 
 #: ../../glacier_basics.rst:20
 msgid ""
 "Feel free to use / adapt the graphics, but always refer to the original "
 "author and share them with a compatible license."
 msgstr ""
+"N'hésitez pas à utiliser / adapter les graphiques, mais faites toujours référence à l'auteur "
+"original et partagez-les avec une licence appropriée."
 
 #: ../../glacier_basics.rst:23
 msgid ""
 "**Author**: Anne Maussion, `Atelier les Gros yeux "
 "<http://atelierlesgrosyeux.com>`_"
 msgstr ""
+"**Auteur**: Anne Maussion, `Atelier les Gros yeux "
+"<http://atelierlesgrosyeux.com>`_"
 
 #: ../../glacier_basics.rst:25
 msgid ""
@@ -52,6 +60,10 @@ msgid ""
 "explain the concepts of accumulation, ablation, equilibrium line altitude"
 " and mass movements in a glacier."
 msgstr ""
+"Cette série de graphiques a été conçue pour une conférence grand public donnée par "
+"`Fabien Maussion <https://fabienmaussion.info/>`_ . Il les a utilisés pour "
+"expliquer les concepts d'accumulation, d'ablation, de ligne d'équilibre"
+" ainsi que les mouvements de masse dans un glacier."
 
 #: ../../glacier_basics.rst:30
 msgid ""
@@ -60,10 +72,14 @@ msgid ""
 "<https://raw.githubusercontent.com/OGGM/glacier-"
 "graphics/master/glacier_intro/gif/glacier.gif>`_"
 msgstr ""
+"**Télécharger**: `zip file <https://github.com/OGGM/glacier-"
+"graphics/blob/master/glacier_intro/glacier_intro.zip?raw=true>`_, `gif "
+"<https://raw.githubusercontent.com/OGGM/glacier-"
+"graphics/master/glacier_intro/gif/glacier.gif>`_"
 
 #: ../../glacier_basics.rst:33
 msgid "Single images with explanations"
-msgstr ""
+msgstr "Explication des images une à une"
 
 #: ../../glacier_basics.rst:38
 msgid ""
@@ -71,12 +87,17 @@ msgid ""
 " looking at a typical mountain glacier from a cross-section along the "
 "main ice flow."
 msgstr ""
+"La première image plante le décor et permet d'expliquer ce que nous regardons :"
+" un glacier de montagne typique, vu en coupe transversale le long du "
+"flux de glace principal."
 
 #: ../../glacier_basics.rst:45
 msgid ""
 "We then announce that we are looking at the processes at the glacier "
 "surface first. This helps to bring the focus to it first."
 msgstr ""
+"Nous signalons ensuite que nous étudions les processus à la surface du glacier,"
+"pour attirer l'attention sur elle dans un premier temps."
 
 #: ../../glacier_basics.rst:51
 msgid ""
@@ -84,6 +105,9 @@ msgid ""
 "measure it, typical values... The time you want to spend on it is up to "
 "you. Note that some snow flakes now appears on the upper left corner!"
 msgstr ""
+"**Accumulation** : définition, quels processus sont en jeu, comment on "
+"la mesure, les valeurs courantes... Le temps que vous voulez y consacrer dépend de "
+"vous. Notez que quelques flocons de neige apparaissent maintenant dans le coin supérieur gauche !"
 
 #: ../../glacier_basics.rst:59
 msgid ""
@@ -91,6 +115,9 @@ msgid ""
 "it, typical values... The time you want to spend on it is up to you. Note"
 " that a sun now appears on the upper right corner!"
 msgstr ""
+"**Ablation** : définition, quels sont les processus en jeu, comment on les mesure "
+", valeurs usuelles... Le temps que vous voulez y consacrer ne dépend que de vous. Notez"
+" qu'un soleil apparaît maintenant dans le coin supérieur droit ! "
 
 #: ../../glacier_basics.rst:67
 msgid ""
@@ -98,6 +125,9 @@ msgid ""
 "values... The time you want to spend on it is up to you. Note that the "
 "formula is now complete!"
 msgstr ""
+"**Bilan de masse** : définition, période sur laquelle on le mesure, valeurs typiques "
+"... Vous êtes libres de choisir le temps que vous voulez y consacrer. Notez que la "
+"formule est maintenant complète !"
 
 #: ../../glacier_basics.rst:75
 msgid ""
@@ -106,10 +136,14 @@ msgid ""
 "bring your talk to, you can use the mass flux arrow to explain the "
 "principles of ice thickness inversion using mass conservation principles."
 msgstr ""
+"Le déséquilibre entre l'accumulation et l'ablation est compensé par un "
+"**mouvement de la glace** de l'amont vers l'aval. Si ce dont vous voulez "
+"parler, vous pouvez utiliser la flèche du flux de masse pour expliquer les "
+"principes de l'inversion de l'épaisseur de la glace en utilisant les principes de conservation de la masse."
 
 #: ../../glacier_basics.rst:83
 msgid "Concept of **Equilibrium Line Altitude** (ELA)."
-msgstr ""
+msgstr "Le concept de **Ligne d'Equilibre Glaciaire** (LEG)"
 
 #: ../../glacier_basics.rst:88
 msgid ""
@@ -117,6 +151,9 @@ msgid ""
 "ELA. You might want to highlight the changes in surface mass budget as "
 "well as the increased solid precipitation and/or the shaded sun."
 msgstr ""
+"Plus d'accumulation et/ou moins d'ablation conduit à un **abaissement** de la "
+"LEG. Vous pourriez vouloir souligner les changements dans le bilan de masse surfacique"
+"ainsi que l'augmentation des précipitations solides et/ou l'ombre du soleil."
 
 #: ../../glacier_basics.rst:95
 msgid ""
@@ -124,6 +161,9 @@ msgid ""
 "the wider arrow) and results in a glacier advance. See the response time "
 "section below for a companion graphic."
 msgstr ""
+"Ce nouveau déséquilibre augmente le flux de glace le long du glacier (d'où "
+"la flèche plus large) et entraîne une avancée du glacier. Se référer à la rubrique \"temps de réponse\" "
+"ci-dessous pour un graphique complémentaire."
 
 #: ../../glacier_basics.rst:103
 msgid ""
@@ -131,6 +171,9 @@ msgid ""
 "ELA. You might want to highlight the changes in surface mass budget as "
 "well as the decreased solid precipitation and/or the stronger sun."
 msgstr ""
+"Moins d'accumulation et/ou plus d'ablation conduit à une **élévation** de la "
+" LEG. Vous pourriez vouloir mettre en évidence les modifications du bilan de masse surfacique "
+"ainsi que la diminution des précipitations solides et/ou le soleil plus fort."
 
 #: ../../glacier_basics.rst:110
 msgid ""
@@ -138,4 +181,7 @@ msgid ""
 "the thinner arrow) and results in a glacier retreat. See "
 ":ref:`glacier_lowpass` for a companion graphic."
 msgstr ""
+"Ce nouveau déséquilibre diminue le flux de glace le long du glacier (d'où "
+"la flèche plus fine) et entraîne un recul du glacier. Voir "
+":ref:`glacier_lowpass` pour avoir un graphique explicatif de plus."
 
