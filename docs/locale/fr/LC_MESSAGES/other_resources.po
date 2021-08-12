@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../other_resources.rst:4
 msgid "Other educational resources"
-msgstr ""
+msgstr "Autres ressources pédagogiques"
 
 #: ../../other_resources.rst:6
 msgid ""
@@ -28,6 +28,10 @@ msgid ""
 "much theoretical background or lecture materials. For more information "
 "about fundamentals, check out these great online resources:"
 msgstr ""
+"OGGM-Edu essaie de jouer son rôle de fournisseur de contenu interactif,"
+"en se concentrant sur les modèles numériques de glaciers. Cependant, OGGM-Edu fournit peu"
+"d'informations théoriques ou de supports de cours. Pour plus d'informations "
+"sur les principes fondamentaux, consultez ces excellentes ressources en ligne :"
 
 #: ../../other_resources.rst:11
 msgid ""
@@ -37,12 +41,19 @@ msgid ""
 "comprehensive online resource available: many of our tutorials refer to "
 "pages in Antarctic Glaciers."
 msgstr ""
+"`Antarctic Glaciers <http://www.antarcticglaciers.org/>`_ : excellente "
+"source d'information sur les glaciers (et pas seulement ceux de l'Antarctique), pour les lycéens "
+"et les étudiants à l'université. Probablement la plus "
+"complète disponible en ligne : beaucoup de nos tutoriels font référence aux "
+"pages dans Antarctic Glaciers."
 
 #: ../../other_resources.rst:15
 msgid ""
 "`GlacierHub <https://glacierhub.org>`_: news and stories about glaciers "
 "from many disciplines."
 msgstr ""
+"`GlacierHub <https://glacierhub.org>`_ : actualités et histoires sur les glaciers "
+"en provenance de nombreuses disciplines. "
 
 #: ../../other_resources.rst:17
 msgid ""
@@ -50,10 +61,13 @@ msgid ""
 "e-learning website for children aged 12 to 14, giving a basic "
 "introduction to ice and climate change."
 msgstr ""
+"`The PROMICE ice school <http://isskolen.dk/wp/?page_id=7477>`_, un "
+"site d'apprentissage en ligne pour les enfants âgés de 12 à 14 ans, offrant une première "
+"initiation à la cryosphère et au changement climatique."
 
 #: ../../other_resources.rst:19
 msgid "`All about glaciers <https://nsidc.org/cryosphere/glaciers>`_ from NSIDC"
-msgstr ""
+msgstr "`Tout sur les glaciers <https://nsidc.org/cryosphere/glaciers>`_ par le National Snow & Ice Data Center (NSIDC)"
 
 #: ../../other_resources.rst:20
 msgid ""
@@ -61,6 +75,9 @@ msgid ""
 " model written in excel (`online interactive version "
 "<http://www.martinoleary.com/jsism>`_)"
 msgstr ""
+"`GRANTISM <http://homepages.ulb.ac.be/~fpattyn/grantism/>`_, un modèle de calotte glaciaire"
+" codé sous Excel (`version interactive en ligne "
+"<http://www.martinoleary.com/jsism>`_)"
 
 #: ../../other_resources.rst:22
 msgid ""
@@ -68,20 +85,27 @@ msgid ""
 "<http://www.staff.science.uu.nl/~oerle102/MM2011-all.pdf>`_ book: a "
 "strong inspiration for this website"
 msgstr ""
+"Le livre de Hans Oerlemans `Minimal Glacier Models "
+"<http://www.staff.science.uu.nl/~oerle102/MM2011-all.pdf>`_ : une "
+"grande source d'inspiration pour ce site."
 
 #: ../../other_resources.rst:24
 msgid ""
 "`SwissEduc Glaciers online <https://www.swisseduc.ch/glaciers/>`_: a "
 "collection of glacier facts and photos."
 msgstr ""
+"`SwissEduc Glaciers online <https://www.swisseduc.ch/glaciers/>`_: une "
+"collection de photos de glaciers accompagnées de détails."
 
 #: ../../other_resources.rst:26
 msgid ""
 "`World glacier monitoring service <https://wgms.ch/>`_: the reference for"
 " glacier observations and monitoring."
 msgstr ""
+"`World glacier monitoring service <https://wgms.ch/>`_: la référence pour"
+" l'observation et le monitoring des glaciers."
 
 #: ../../other_resources.rst:29
 msgid ":ref:`title_contact` if you'd like to add some more to this list!"
-msgstr ""
+msgstr ":ref:`title_contact` si jamais vous souhaitez compléter cette liste !"
 
