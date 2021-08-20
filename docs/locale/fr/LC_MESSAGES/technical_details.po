@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../technical_details.rst:4
 msgid "Technical details"
-msgstr ""
+msgstr "Détails techniques"
 
 #: ../../technical_details.rst:6
 msgid ""
@@ -27,10 +27,13 @@ msgid ""
 "instructors and contributors. Make sure you read :ref:`notebooks_howto` "
 "before going on!"
 msgstr ""
+"Nous donnons plus d'informations sur les mécanismes internes de la plateforme à "
+"destination des formateurs et des contributeurs. Assurez-vous de lire :ref:`notebooks_howto` "
+"avant de vous lancer !"
 
 #: ../../technical_details.rst:10
 msgid "The computing environments"
-msgstr ""
+msgstr "Les environnements informatiques"
 
 #: ../../technical_details.rst:12
 msgid ""
@@ -42,6 +45,13 @@ msgid ""
 " These configurations files are found in this repository: "
 "`<https://github.com/OGGM/binder>`_"
 msgstr ""
+"Les environnements informatiques disponibles via MyBinder sont des  `Docker containers "
+"<https://www.docker.com/resources/what-container>`_, ou des \"software"
+"capsules\" qui peuvent être créés et manipulés en ligne. Nous créons ces containers "
+"en utilisant quelques fichiers de paramétrage simples spécifiant les "
+"packages et les bibliothèques python que nous souhaitons utiliser dans OGGM-Edu. "
+"Ces fichiers de paramétrage se trouvent dans ce répertoire : "
+"`<https://github.com/OGGM/binder>`_"
 
 #: ../../technical_details.rst:20
 msgid ""
@@ -50,6 +60,10 @@ msgid ""
 "built, they won't be built again unless a new change is made to the "
 "``OGGM/binder`` repository."
 msgstr ""
+"MyBinder utilise `repo2docker <https://repo2docker.readthedocs.io>`_ pour "
+"construire ces environnements et les stocker dans une base de données cachée. Une fois "
+"construits, ils ne seront plus construits à nouveau à moins qu'une modification soit apportée au "
+"répertoire ``OGGM/binder``."
 
 #: ../../technical_details.rst:25
 msgid ""
@@ -59,10 +73,15 @@ msgid ""
 "environments. Their configuration files are found in this repository: "
 "`<https://github.com/OGGM/r2d>`_. We use these in :ref:`oggm_hub`."
 msgstr ""
+"Nous utilisons le même principe pour construire des images qui peuvent être utilisées par votre propre "
+"affectation JupyterHub, si vous en avez une. Ces images sont disponibles `ici "
+"<https://hub.docker.com/r/oggm/r2d>`_ et forment la base des environnements Binder."
+"Leurs fichiers de paramétrage se trouvent dans ce répertoire : "
+"`<https://github.com/OGGM/r2d>`_. Nous les utilisons dans :ref:`oggm_hub`."
 
 #: ../../technical_details.rst:33
 msgid "The notebooks"
-msgstr ""
+msgstr "Les notebooks"
 
 #: ../../technical_details.rst:35
 msgid ""
@@ -71,10 +90,14 @@ msgid ""
 "(educational and tutorials) on GitHub: `<https://github.com/OGGM/oggm-"
 "edu-notebooks>`_"
 msgstr ""
+"Les notebooks sont développés de manière collaborative. Vos commentaires et "
+"contributions sont les bienvenus ! Vous trouverez le répertoire avec tous les notebooks "
+"(éducatifs et didacticiels) sur GitHub : `<https://github.com/OGGM/oggm-"
+"edu-notebooks>`_"
 
 #: ../../technical_details.rst:41
 msgid "This website"
-msgstr ""
+msgstr "Ce site web"
 
 #: ../../technical_details.rst:43
 msgid ""
@@ -82,10 +105,13 @@ msgid ""
 "doc.org/>`_ framework and is hosted on `ReadTheDocs "
 "<https://readthedocs.org>`_."
 msgstr ""
+"Le contenu de ce site est écrit avec l'ossature `Sphinx <http://sphinx-"
+"doc.org/>`_ et est hébergé sur `ReadTheDocs "
+"<https://readthedocs.org>`_."
 
 #: ../../technical_details.rst:49
 msgid "OGGM-Hub"
-msgstr ""
+msgstr "OGGM-Hub"
 
 #: ../../technical_details.rst:51
 msgid ""
@@ -93,20 +119,25 @@ msgid ""
 "`OGGM-Hub <https://docs.oggm.org/en/stable/cloud.html#oggm-hub>`_. The "
 "advantages of OGGM-Hub over Binder are:"
 msgstr ""
+"Nous fournissons également un JupyterLab dédié à OGGM fonctionnant sur notre propre serveur : "
+"`OGGM-Hub <https://docs.oggm.org/en/stable/cloud.html#oggm-hub>`_. Les "
+"avantages de OGGM-Hub par rapport à Binder sont :"
 
 #: ../../technical_details.rst:55
 msgid "more resources for your students, faster launches"
-msgstr ""
+msgstr "plus de ressources pour vos étudiants, des lancements plus rapides"
 
 #: ../../technical_details.rst:56
 msgid "user management: you can set passwords and user names at wish"
-msgstr ""
+msgstr "gestion des comptes : vous pouvez définir des mots de passe et des noms d'utilisateur sur demande"
 
 #: ../../technical_details.rst:57
 msgid ""
 "persistent sessions: work can be saved between sessions and log-ins (this"
 " is probably the main advantage of OGGM-Hub)"
 msgstr ""
+"sessions permanentes : le travail peut être sauvegardé d'une session à l'autre "
+"(c'est probablement le principal avantage d'OGGM-Hub)"
 
 #: ../../technical_details.rst:59
 msgid ""
@@ -116,4 +147,9 @@ msgid ""
 "class or a workshop), please :ref:`title_contact` and we'll try to "
 "arrange a specific set-up for you!"
 msgstr ""
+"`hub.oggm.org <https://hub.oggm.org>`_ n'est disponible que pour les utilisateurs enregistrés "
+"(l'inscription est gratuite !), mais il ne fonctionnera pas pour une classe entière. Si "
+"vous avez un besoin spécifique d'un service OGGM-hub (par exemple pour un cours d'une semaine "
+"ou un atelier), veuillez :ref:`title_contact` et nous essaierons "
+"d'aménager une installation spécifique pour vous !"
 
