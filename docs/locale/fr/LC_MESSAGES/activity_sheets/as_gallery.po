@@ -19,11 +19,11 @@ msgstr ""
 
 #: ../../activity_sheets/as_gallery.rst:6
 msgid "Lesson plan 1: Glacier Gallery"
-msgstr ""
+msgstr "Cours n°1 : la Galerie des Glaciers"
 
 #: ../../activity_sheets/as_gallery.rst
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: ../../activity_sheets/as_gallery.rst:9
 msgid "Josie Iino"
@@ -31,55 +31,59 @@ msgstr ""
 
 #: ../../activity_sheets/as_gallery.rst
 msgid "Grades"
-msgstr ""
+msgstr "Niveau"
 
 #: ../../activity_sheets/as_gallery.rst:11
 msgid "High school students"
-msgstr ""
+msgstr "Lycéens"
 
 #: ../../activity_sheets/as_gallery.rst
 msgid "Brief Description"
-msgstr ""
+msgstr "Brève description"
 
 #: ../../activity_sheets/as_gallery.rst:13
 msgid ""
 "Utilizing the interactive app :ref:`gallery` provided by OGGM-Edu, "
 "students will be introduced to glaciers and their forms."
 msgstr ""
+"En utilisant l'application interactive :ref:`gallery` fournie par OGGM-Edu, "
+"les élèves seront familiarisés avec les glaciers et leurs formes."
 
 #: ../../activity_sheets/as_gallery.rst
 msgid "Objectives"
-msgstr ""
+msgstr "Objectifs"
 
 #: ../../activity_sheets/as_gallery.rst:17
 msgid "Upon completion of this lesson, students will be able to:"
-msgstr ""
+msgstr "A l'issue de cette leçon, les élèves seront capables de :"
 
 #: ../../activity_sheets/as_gallery.rst:17
 msgid "Identify the standard definition of a glacier"
-msgstr ""
+msgstr "Donner la définition standard d'un glacier"
 
 #: ../../activity_sheets/as_gallery.rst:18
 msgid "Compare and contrast the four glacier types presented in the app"
-msgstr ""
+msgstr "Comparer et confronter les quatre types de glaciers présentés dans l'application."
 
 #: ../../activity_sheets/as_gallery.rst
 msgid "Materials Needed"
-msgstr ""
+msgstr "Matériel nécessaire"
 
 #: ../../activity_sheets/as_gallery.rst:21
 msgid ""
 "Computer with access to OGGM-Edu (possibly one computer per group of 2 or"
 " 3)"
 msgstr ""
+"Ordinateur avec un accès à OGGM-Edu (éventuellement un ordinateur par groupe de 2 ou "
+"3)"
 
 #: ../../activity_sheets/as_gallery.rst:22
 msgid "A writing utensil and paper"
-msgstr ""
+msgstr "Une feuille et de quoi écrire"
 
 #: ../../activity_sheets/as_gallery.rst
 msgid "Lesson Plan"
-msgstr ""
+msgstr "Plan du cours"
 
 #: ../../activity_sheets/as_gallery.rst:26
 msgid ""
@@ -88,6 +92,10 @@ msgid ""
 "definition of a glacier, or collaboratively create a mind-map that lists "
 "the characteristics of a glacier."
 msgstr ""
+"Brainstormez avec les élèves pour déterminer ce qu'ils savent sur les glaciers. Cela "
+"pourrait consister à demander aux élèves de noter individuellement leur "
+"définition initiale d'un glacier, ou de créer en collaboration une carte mentale qui liste "
+"les caractéristiques d'un glacier."
 
 #: ../../activity_sheets/as_gallery.rst:29
 msgid ""
@@ -96,6 +104,10 @@ msgid ""
 " ice, and highlight the differences between the student-provided "
 "definition against the OGGM-Edu provided definition of a glacier."
 msgstr ""
+"Ouvrez l'application Galerie des Glaciers (Glacier Gallery) et mettez en évidence la définition d'un glacier "
+"telle qu'elle est donnée par OGGM-Edu. Insistez sur le fait qu'un glacier est une masse de glace "
+"terrestre et pérenne, et mettez en évidence les différences entre la définition fournie par l'élève "
+"par rapport à celle fournie par l'OGGM-Edu."
 
 #: ../../activity_sheets/as_gallery.rst:33
 msgid ""
@@ -105,6 +117,11 @@ msgid ""
 "glacier types on a piece of paper. Provide a short period of allotted "
 "time to work and occasionally offer your assistance when asked or needed."
 msgstr ""
+"Donnez de brèves instructions sur la façon d'utiliser la Galerie des Glaciers. Demandez aux élèves "
+"de créer de manière autonome (seuls ou en petits groupes) une représentation visuelle "
+"des similitudes et des différences entre les quatre "
+"types de glaciers sur une feuille. Accordez-leur une courte période de "
+"temps pour travailler et offrez occasionnellement votre aide lorsqu'elle est demandée ou nécessaire."
 
 #: ../../activity_sheets/as_gallery.rst:38
 msgid ""
@@ -112,13 +129,18 @@ msgid ""
 "findings. Otherwise, create your own compare-and-contrast visualization "
 "method and use student-input to fill it in."
 msgstr ""
+"Si vous n'êtes pas pressé par le temps, demandez aux élèves de présenter individuellement leurs "
+"résultats. Sinon, créez votre propre méthode de mise en évidence des différences "
+"et utilisez les contributions des élèves pour la compléter."
 
 #: ../../activity_sheets/as_gallery.rst:40
 msgid ""
 "Summarize the key differences between the four glacier types in a method "
 "that would allow students to take notes."
 msgstr ""
+"Résumez les principales différences entre les quatre types de glaciers d'une manière "
+"qui permettrait aux étudiants de prendre des notes."
 
 #: ../../activity_sheets/as_gallery.rst:41
 msgid "For the remainder of the lesson, ask students to ask questions."
-msgstr ""
+msgstr "Pour le reste de la leçon, demandez aux élèves de poser leurs questions."
