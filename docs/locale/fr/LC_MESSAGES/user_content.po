@@ -19,7 +19,7 @@ msgstr ""
 
 #: ../../user_content.rst:4
 msgid "Use your own notebooks with OGGM-Edu"
-msgstr ""
+msgstr "Utilisez votre propre notebook avec OGGM-Edu"
 
 #: ../../user_content.rst:6
 msgid ""
@@ -27,6 +27,9 @@ msgid ""
 "environment, for example during the development phase or for a class you "
 "are giving."
 msgstr ""
+"Vous pourriez vouloir exécuter vos propres notebooks dans un environnement "
+"OGGM-Edu, par exemple pendant la phase de développement ou pour un cours "
+"que vous donnez."
 
 #: ../../user_content.rst:10
 msgid ""
@@ -37,6 +40,12 @@ msgid ""
 "notebook to get you started. See also :ref:`examples` for existing "
 "classes making use of this system."
 msgstr ""
+"Par chance, c'est très facile à faire ! Vous avez juste à placer "
+"les notebooks que vous souhaitez exécuter dans un dépôt git en ligne "
+"(GitHub, Gitlab, Bitbucket,...). Pour donner l'exemple, nous avons créé un " `oggm-edu-"
+"contrib <https://github.com/OGGM/oggm-edu-contrib>`_ avec un seul "
+"notebook pour vous aider à démarrer. Voir aussi :ref:`examples` pour les "
+"cours existantes faisant appel à ce système."
 
 #: ../../user_content.rst:17
 msgid ""
@@ -44,10 +53,13 @@ msgid ""
 " this open platform: if you feel comfortable sharing your content to "
 "others, please let us know!"
 msgstr ""
+"Idéalement, nous aimerions que tout le contenu lié à OGGM-Edu soit regroupé ici sur "
+"cette plateforme ouverte : si vous vous sentez à l'aise avec le fait que votre contenu soit "
+"partagé avec d'autres, faites-le nous savoir ! "
 
 #: ../../user_content.rst:22
 msgid "On MyBinder"
-msgstr ""
+msgstr "Sur MyBinder"
 
 #: ../../user_content.rst:24
 msgid ""
@@ -55,10 +67,13 @@ msgid ""
 " Once your notebooks are online, you simply have to provide the correct "
 "link to your students. The syntax is following::"
 msgstr ""
+"Utiliser ses propres notebooks dans un environnement OGGM-Edu Binder est très facile ! "
+"Une fois que vos notebooks sont en ligne, il vous suffit de fournir le bon "
+"lien à vos étudiants. La syntaxe est la suivante : "
 
 #: ../../user_content.rst:30
 msgid "For example, a link to our contrib repository looks like:"
-msgstr ""
+msgstr "Par exemple, un lien vers notre dépôt contributif ressemble à :"
 
 #: ../../user_content.rst:32
 msgid ""
@@ -75,6 +90,12 @@ msgid ""
 "<https://jupyterhub.github.io/nbgitpuller/>`_ to fetch the provided "
 "online repository and its content. That's all!"
 msgstr ""
+" Qu'est-ce qui se passe ici ? La première partie du lien (jusqu'au point d'interrogation) "
+"dit à MyBinder d'utiliser l'environnement OGGM que nous entretenons "
+"`ici <https://github.com/OGGM/binder>`_ (nous utilisons la version stable ici). "
+"La deuxième partie du lien utilise `nbgitpuller "
+"<https://jupyterhub.github.io/nbgitpuller/>`_ pour récupérer le dépôt en ligne "
+"préalablement fourni et son contenu. C'est tout !"
 
 #: ../../user_content.rst:41
 msgid ""
@@ -86,10 +107,17 @@ msgid ""
 "generator <https://jupyterhub.github.io/nbgitpuller/link.html>`_ to do "
 "the job for you."
 msgstr ""
+"C'était l'exemple le plus basique. Si vous souhaitez utiliser d'autres fonctionnalités, comme "
+"l'utilisation de l'interface Jupyter Lab (au lieu de la simple interface notebooks), "
+"et si vous voulez commencer à l'endroit de votre choix dans le "
+"répertoire (par exemple dans un dossier), la syntaxe est un peu plus "
+"lourde. La meilleure façon (de loin !) est de compter sur le `lien du générateur  "
+"nbgitpuller <https://jupyterhub.github.io/nbgitpuller/link.html>`_ pour faire "
+"le travail à votre place."
 
 #: ../../user_content.rst:48
 msgid "For example, we start the OGGM-Edu tutorials with this link:"
-msgstr ""
+msgstr "A titre d'exemple, nous lançons les tutoriels OGGM-Edu avec ce lien :"
 
 #: ../../user_content.rst:50
 #, python-format
@@ -106,12 +134,17 @@ msgid ""
 "links `behind a badge "
 "<https://mybinder.readthedocs.io/en/latest/howto/badges.html>`_."
 msgstr ""
+"Ça devient assez long, je sais ! Le mieux est donc de cacher les "
+"liens `derrière un badge "
+"<https://mybinder.readthedocs.io/en/latest/howto/badges.html>`_."
 
 #: ../../user_content.rst:55
 msgid ""
 "If you are creating educational resources based on OGGM-Edu, please "
 ":ref:`get in touch <title_contact>` so that we can advertise them!"
 msgstr ""
+"Si vous créez des ressources éducatives basées sur OGGM-Edu, veuillez "
+":ref:`nous contacter <title_contact>` afin que nous puissions les promouvoir !"
 
 #~ msgid ""
 #~ "This was the most basic example. "
