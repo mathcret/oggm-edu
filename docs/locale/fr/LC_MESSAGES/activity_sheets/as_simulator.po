@@ -19,27 +19,27 @@ msgstr ""
 
 #: ../../activity_sheets/as_simulator.rst:6
 msgid "Lesson plan 3: Glacier Simulator"
-msgstr ""
+msgstr "Cours n°3 : Le Simulateur de Glacier"
 
 #: ../../activity_sheets/as_simulator.rst
 msgid "Author"
-msgstr ""
+msgstr "Auteur"
 
 #: ../../activity_sheets/as_simulator.rst:9
 msgid "Josie Iino"
-msgstr ""
+msgstr "Josie Iino"
 
 #: ../../activity_sheets/as_simulator.rst
 msgid "Grades"
-msgstr ""
+msgstr "Niveau"
 
 #: ../../activity_sheets/as_simulator.rst:11
 msgid "High school students"
-msgstr ""
+msgstr "Lycéens"
 
 #: ../../activity_sheets/as_simulator.rst
 msgid "Brief Description"
-msgstr ""
+msgstr "Courte description"
 
 #: ../../activity_sheets/as_simulator.rst:13
 msgid ""
@@ -47,53 +47,63 @@ msgid ""
 "students will learn how glaciers flow, grow, shrink, as well as what "
 "parameters influence glacier size, and more."
 msgstr ""
+"En utilisant l'application interactive :ref:`simulator` fournie par OGGM-Edu, "
+"les élèves apprendront comment les glaciers s'écoulent, croissent, régressent, ainsi que les "
+"paramètres qui influencent la taille des glaciers, et plus encore."
 
 #: ../../activity_sheets/as_simulator.rst
 msgid "Objectives"
-msgstr ""
+msgstr "Objectifs"
 
 #: ../../activity_sheets/as_simulator.rst:19
 msgid "Upon completion of this lesson, students will be able to:"
-msgstr ""
+msgstr "A l'issue de cette leçon, les étudiants seront capables de :"
 
 #: ../../activity_sheets/as_simulator.rst:18
 msgid ""
 "Recite and understand words and their definitions, most notably: "
-"Equillibrium Line Altitude (ELA), accumulation area, and glacier-mass "
+"Equilibrium Line Altitude (ELA), accumulation area, and glacier-mass "
 "balance."
 msgstr ""
+"Comprendre et réciter des mots-clés et leurs définitions, comme : "
+"Ligne d'Equilibre (ELA pour Equilibrium Line Altitude), zone d'accumulation, et bilan "
+"de masse du glacier."
 
 #: ../../activity_sheets/as_simulator.rst:19
 msgid ""
 "Describe the correlation between glacier top width and accumulation area,"
 " ELA and equilibrium glacier size, and glacier density and gradient."
 msgstr ""
+"Décrire la corrélation entre la largeur du sommet du glacier et la surface de sa zone d'accumulation ; "
+"entre l'altitude de la ligne d'équilibre et la taille du glacier à l'équilibre ; entre la densité d'un glacier et son gradient."
 
 #: ../../activity_sheets/as_simulator.rst:20
 msgid "Discover through scientific inquiry and analysis of visual data"
-msgstr ""
+msgstr "Faire des découvertes via une enquête scientifique et l'analyse de données visuelles"
 
 #: ../../activity_sheets/as_simulator.rst
 msgid "Materials Needed"
-msgstr ""
+msgstr "Matériel nécessaire"
 
 #: ../../activity_sheets/as_simulator.rst:23
 msgid ""
 "Computer with access to OGGM-Edu (possibly one computer per group of 2 or"
 " 3)"
 msgstr ""
+"Un ordinateur ayant accès à OGGM-Edu (éventuellement un ordinateur par groupe de 2 ou "
+"3)"
 
 #: ../../activity_sheets/as_simulator.rst:24
 msgid "A writing utensil and paper"
-msgstr ""
+msgstr "Une feuille et de quoi écrire"
 
 #: ../../activity_sheets/as_simulator.rst:25
 msgid "A teacher-computer to present slides to students"
-msgstr ""
+msgstr "Un ordinateur pour l'enseignant afin qu'il présente les diapositives aux élèves"
 
 #: ../../activity_sheets/as_simulator.rst
 msgid "Lesson Plan"
-msgstr ""
+msgstr "Plan du cours"
 
 #: ../../activity_sheets/as_simulator.rst:28
 msgid ""
@@ -106,6 +116,14 @@ msgid ""
 "webpage has information that could be used to verbally aid the instructor"
 " on the fundamentals or be used as a supplement for students."
 msgstr ""
+"Utilisez les graphiques fournis par OGGM-Edu :ref:`glacier_basics` pour "
+"présenter visuellement aux élèves les concepts clés qui seront approfondis grâce à "
+"l'application interactive. Laissez les élèves de prendre des notes, mais rappelez-leur que ces "
+"concepts seront approfondis dans l'application interactive. La page web "
+"`AntarcticGlaciers : bilan de masse <http://www.antarcticglaciers.org"
+"/glacier-processes/mass-balance/introduction-glacier-mass-balance/>`_ "
+"contient des informations qui pourraient être utiles pour aider l'instructeur "
+"sur les principes de base ou être utilisées comme un supplément pour les étudiants."
 
 #: ../../activity_sheets/as_simulator.rst:29
 msgid ""
@@ -114,6 +132,10 @@ msgid ""
 "through the beginner tutorial within the program. Afterwards leave an "
 "allotted time for student questions on how to use the app."
 msgstr ""
+"Vous pouvez au choix : fournir de brèves instructions sur l'utilisation du Simulateur de Glacier, ou "
+"bien permettre aux élèves (en petits groupes ou individuellement) de se laisser guider "
+"par le tutoriel pour débutants disponible dans le programme. Laissez ensuite un "
+"un temps pour les questions des élèves concernant l'utilisation de l'application."
 
 #: ../../activity_sheets/as_simulator.rst:30
 msgid ""
@@ -121,24 +143,33 @@ msgid ""
 "guide students through the three self-contained inquiries. The "
 "instructions for the first inquiry are as follows:"
 msgstr ""
+"Projetez sur un tableau ou imprimez et faites passer des instructions qui "
+"guideront les élèves à travers les trois questions autonomes. Les "
+"instructions pour la première question sont les suivantes :"
 
 #: ../../activity_sheets/as_simulator.rst:32
 msgid ""
 "In beginner mode, set the ELA to 3000m a.s.l and note the equilibrium "
 "volume of the glacier, its length, and maximal thickness."
 msgstr ""
+"En mode débutant, réglez la RLE à 3000 m d'altitude et notez le volume d'équilibre "
+"volume du glacier, sa longueur et son épaisseur maximale."
 
 #: ../../activity_sheets/as_simulator.rst:33
 msgid ""
 "Choose the “wider top” glacier shape and run the model again. Is the new "
 "glacier larger or smaller? Why do you think so?"
 msgstr ""
+"Choisissez la forme de glacier \"à sommet plus large\" (*Wider top*) et relancez le modèle. Le nouveau "
+"glacier est-il plus grand ou plus petit ? Pourquoi ?"
 
 #: ../../activity_sheets/as_simulator.rst:34
 msgid ""
 "Allow students to independently work through the first experiment and "
 "offer guidance when prompted or needed."
 msgstr ""
+"Laissez les élèves travailler en autonomie sur la première expérience et "
+"distillez des conseils lorsque cela est nécessaire."
 
 #: ../../activity_sheets/as_simulator.rst:35
 msgid ""
@@ -147,18 +178,26 @@ msgid ""
 "positive correlation between glacier top width and larger accumulation "
 "areas."
 msgstr ""
+"Lorsque tous les élèves ont terminé, ou que l'horaire le commande, demandez aux élèves leur "
+"réponse aux questions posées à la suite de la dernière instruction. Insistez sur la "
+"corrélation positive entre la largeur du sommet du glacier et une plus grande "
+"zone d'accumulation".
 
 #: ../../activity_sheets/as_simulator.rst:36
 msgid ""
 "Allow students to independently work through the second inquiry and offer"
 " guidance when prompted or needed. The instructions follow:"
 msgstr ""
+"Permettez aux élèves de travailler en autonomie sur la deuxième question et donnez "
+"des conseils lorsque cela est demandé ou nécessaire. Les instructions sont les suivantes : "
 
 #: ../../activity_sheets/as_simulator.rst:38
 msgid ""
 "In beginner mode, set the ELA to 2500m a.s.l and note the equilibrium "
 "volume of the glacier, it’s length, and maximal thickness."
 msgstr ""
+"En mode débutant, fixez la lige d'équilibre à 2500m d'altitude et notez "
+"le volume du glacier à l'équilibre, sa longueur et son épaisseur maximale."
 
 #: ../../activity_sheets/as_simulator.rst:39
 msgid ""
@@ -166,6 +205,9 @@ msgid ""
 "increment, the equilibrium volume of the glacier, it’s length, and "
 "maximal thickness."
 msgstr ""
+"Augmentez l'altitude de la ligne d'équilibre jusqu'à 3500 m par pas de 200 m et enregistrez, à chaque incrément, "
+"le volume du glacier à l'équilibre, sa longueur et "
+"l'épaisseur maximale."
 
 #: ../../activity_sheets/as_simulator.rst:40
 msgid ""
@@ -173,6 +215,9 @@ msgid ""
 "glacier volume change with ELA? Can you explain why? What about glacier "
 "length and thickness? Are these changes linear, or more complex?"
 msgstr ""
+"Rprésentez ces variables sur un graphique, en fonction de la ELA. Comment le "
+"volume des glaciers change-t-il en fonction de la ELA ? Pouvez-vous expliquer pourquoi ? Qu'en est-il de "
+"leur longueur et leur épaisseur ? Ces changements sont-ils linéaires, ou plus complexes ?"
 
 #: ../../activity_sheets/as_simulator.rst:41
 msgid ""
@@ -182,6 +227,11 @@ msgid ""
 " maximal thickness. Emphasize the negative relationship between ELA and "
 "equilibrium glacier size."
 msgstr ""
+"Lorsque tous les élèves ont terminé, ou lorsque l'horaire l'impose, demandez aux élèves de "
+"présenter leurs graphiques, ou créez votre propre graphique avec les données des élèves. "
+"Mettez en évidence les relations non linéaires entre la ELA et la longueur, le volume et "
+"l'épaisseur maximale. Insistez sur la corrélation négative entre la ELA et "
+"la taille du glacier à l'équilibre."
 
 #: ../../activity_sheets/as_simulator.rst:42
 msgid ""
@@ -194,6 +244,14 @@ msgid ""
 " Allow students to independently work for an allotted period of time and "
 "follow the instructions:"
 msgstr ""
+"Présentez rapidement aux élèves le concept d'écoulement des glaciers. La page web "
+"`AntarcticGlaciers : l'écoulement d'un glacier (glacier flow) <http://www.antarcticglaciers.org"
+"/glacier-processes/glacier-flow-2/glacier-flow>`_ peut être servir "
+"d'aide. Pour une représentation graphique de la force gravitationnelle, présentez "
+"aux étudiants l'illustration `\"corps libre sur un plan incliné\" (free body on an inclined plane) "
+"<https://en.wikipedia.org/wiki/Inclined_plane#/media/File:Free_body1.3.svg>`_. "
+"Laissez les élèves travailler de manière autonome pendant un temps imparti et "
+"suivre les instructions suivantes :"
 
 #: ../../activity_sheets/as_simulator.rst:44
 msgid ""
@@ -203,12 +261,19 @@ msgid ""
 " of paper of the ice thickness, volume, area and length at the end of "
 "each model run."
 msgstr ""
+"Utilisez le mode débutant avec les paramètres standard (largeur constante, gradient de bilan massique "
+"égal à 4 et ELA fixée à 3000m) et exécutez le modèle avec chaque paramètre disponible pour "
+"la pente. Utilisez le tracé géométrique (geometry plot) pour contrôler ce qui se passe. Notez "
+"l'épaisseur, le volume, la surface et la longueur du glacier à la fin de "
+"chaque exécution du modèle."
 
 #: ../../activity_sheets/as_simulator.rst:45
 msgid ""
 "Using your analytical skills, answer the following questions. Which "
-"glaciers are thicker: steep or thin ones? Why?"
+"glaciers are thicker: steep or flat ones? Why?"
 msgstr ""
+"En utilisant vos capacités d'analyse, répondez aux questions suivantes. Quels "
+"glaciers sont les plus épais : les glaciers de forte pente ou les glaciers plats ? Pourquoi ?"
 
 #: ../../activity_sheets/as_simulator.rst:46
 msgid ""
@@ -217,6 +282,10 @@ msgid ""
 "on their mistakes, and allow students to reiterate the concept that the "
 "steeper the slope, the thinner the glacier."
 msgstr ""
+"Lorsque tous les élèves ont terminé, ou que l'horaire le commande, demandez aux élèves leur "
+"réponse aux questions posées à la suite des dernières instructions. Corrigez "
+"leurs erreurs, et laissez les élèves réitérer le concept suivant : "
+"plus la pente est raide, plus le glacier est mince."
 
 #: ../../activity_sheets/as_simulator.rst:47
 msgid ""
@@ -224,3 +293,6 @@ msgid ""
 "have. Direct them to the supplementary sources listed in this document "
 "for further investigation or reinforcement of concepts."
 msgstr ""
+"Utilisez le temps qu'il vous reste pour répondre à toutes les questions que les élèves peuvent "
+"se poser. Orientez-les vers les ressources complémentaires énumérées dans ce document "
+"pour approfondir ou renforcer des concepts."
